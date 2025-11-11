@@ -2,6 +2,8 @@
 
 Adds several new Signals and Frequencies to find and listen to throughout the solar system!
 
+![alt text](tebmn.moretohear.thumbnail.jpg)
+
 CHANGELOG (spoilers):
 
 V1.0.0
