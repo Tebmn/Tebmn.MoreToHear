@@ -26,9 +26,9 @@ PLANNED UPDATES:
 
 -Give more of the signals bespoke statistics for their traits, such as detection and identification radiuses
 
--Add signals to the Ash Twin masks on the Nomai Statues channel
-
 -Rework Graviton Flux channel (it feels really cluttered)
+
+-Add signals to the Ash Twin masks on the Nomai Statues channel
 
 -Signals for the easter eggs (Fig backer satellite & Elsinore Room)
 
