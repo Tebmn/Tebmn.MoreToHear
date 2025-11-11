@@ -3,7 +3,7 @@
 Adds several new Signals and Frequencies to find and listen to throughout the solar system!
 
 CHANGELOG (spoilers):
-V1.0.1
+V1.0.0
 Added a new signal (LOOP_ERROR) and frequency (Anti-Graviton Flux) to the Advanced Warp Core, 
 Added a new signal (Emission) to all White Hole cores (Anti-Graviton Flux), 
 Added a new signal (Absorption) to all Black Hole cores (Anti-Graviton Flux), 
