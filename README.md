@@ -1,10 +1,12 @@
 # More To Hear
 
-Adds several new Signals and Frequencies to find and listen to acrosss the solar system!
+![alt text](tebmn.moretohear.thumbnail.jpg)
 
 Should provide a non-intrusive, lore-friendly experience. Does not alter or add any ship logs
 
-![alt text](tebmn.moretohear.thumbnail.jpg)
+This mod re implements content added by both Signals+ and BackersSignal among other things, and would likely create a confusing experience if used together. 
+
+Open to suggestions and requests.
 
 # CHANGELOG (spoilers):
 
