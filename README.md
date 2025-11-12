@@ -2,7 +2,7 @@
 
 Adds several new Signals and Frequencies to find and listen to acrosss the solar system!
 
-Should provie a non-intruve, lore-friendly expereince. Does not alter or add any ship logs
+Should provide a non-intrusive, lore-friendly experience. Does not alter or add any ship logs
 
 ![alt text](tebmn.moretohear.thumbnail.jpg)
 
